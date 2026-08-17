@@ -2,8 +2,6 @@
 
 Artifact for the paper:
 
-> **"Stop trying to make fetch happen": Towards a Modality-Aware Understanding of Unnecessary Resources on the Web.** *Proceedings of the ACM Internet Measurement Conference (IMC)*, 2026. Rumaisa Habib, Balaji Balachandran, Nurullah Demir, and Zakir Durumeric.
-
 ```bibtex
 @inproceedings{habib2026fetch,
   title={"Stop trying to make fetch happen": Towards a Modality-Aware Understanding of Unnecessary Resources on the Web},
